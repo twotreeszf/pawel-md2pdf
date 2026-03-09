@@ -1,0 +1,9 @@
+{
+  "name": "md2pdf",
+  "version": "1.0.0",
+  "description": "Markdown to PDF converter (via pawel-md2html)",
+  "scripts": {
+    "convert": "./md2pdf.sh"
+  },
+  "dependencies": {}
+}
