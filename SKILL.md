@@ -1,6 +1,9 @@
 ---
 name: pawel-md2pdf
+version: 1.0.0
+author: twotreeszf
 description: Convert Markdown to PDF via pawel-md2html. Generates beautiful HTML first, then prints to PDF using browser. (Pawel's custom build)
+license: MIT
 ---
 
 # Markdown to PDF Converter
